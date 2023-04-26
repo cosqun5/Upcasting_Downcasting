@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\bin\Debug\net6.0\Upcasting_downcasting.exe
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\bin\Debug\net6.0\Upcasting_downcasting.deps.json
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\bin\Debug\net6.0\Upcasting_downcasting.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\bin\Debug\net6.0\Upcasting_downcasting.dll
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\bin\Debug\net6.0\Upcasting_downcasting.pdb
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.dll
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\refint\Upcasting_downcasting.dll
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.pdb
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\Upcasting_downcasting.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Upcasting_downcasting\obj\Debug\net6.0\ref\Upcasting_downcasting.dll
